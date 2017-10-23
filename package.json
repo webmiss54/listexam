@@ -1,0 +1,26 @@
+{
+  "name": "listexam",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/webmiss54/listexam.git"
+  },
+  "author": "isabelle Marcel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/webmiss54/listexam/issues"
+  },
+  "homepage": "https://github.com/webmiss54/listexam#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "mongoose": "^4.12.4",
+    "particle-api-js": "^7.0.0-rc.1",
+    "socket.io": "^2.0.4"
+  }
+}
