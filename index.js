@@ -77,8 +77,8 @@ io.sockets.on('connection', function (socket) {
 });
 
 particle.login({
-    username: 'webmiss54@gmail.com',
-    password: 'olivier1'
+    username: 'xxxx',
+    password: 'xxxxx'
 }).then(
     function(data) {
         token = data.body.access_token;
